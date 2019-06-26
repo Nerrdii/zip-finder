@@ -1,29 +1,23 @@
-# zip-finder
+# Zip Finder
 
-## Project setup
-```
-npm install
+Vue & Ionic PWA to look up zip info.
+
+## Getting Started
+
+### Install dependencies
+
+```bash
+> npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+### Run server
+
+```bash
+> npm run serve
 ```
 
-### Compiles and minifies for production
-```
+### Compile & build for production
+
+```bash
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
